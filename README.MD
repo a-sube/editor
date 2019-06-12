@@ -1,0 +1,3 @@
+## An attempt to build content editor using HTML/CSS/JavaScript
+
+Open `index.html` in the browser and try it...
